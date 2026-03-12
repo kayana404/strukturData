@@ -7,5 +7,9 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 
 <img width="684" height="137" alt="Screenshot 2026-03-10 142746" src="https://github.com/user-attachments/assets/2241bd4c-1b9d-4c69-b086-facbae561e64" />
 
-barisan pertama (for) untuk melakukan perulangan (for i in range(10): ) melakukan perulangan berjalan selama 10 kali perulangan
-barisan kedua digunakkan untuk menerima input nilai dari pengguna. Program meminta pengguna memasukkan nilai, kemudian mengubah nilai tersebut dari bentuk teks menjadi bilangan bulat menggunakan fungsi int()
+1)barisan pertama (for) untuk melakukan perulangan (for i in range(10): ) melakukan perulangan berjalan selama 10 kali perulangan
+
+2)barisan kedua digunakkan untuk menerima input nilai dari pengguna. Program meminta pengguna memasukkan nilai, kemudian program mengeluarkan pesan "masukkan nilai mahasiswa ke-{i+1}", dimana i+1 digunakan agar penomoran mahasiswa dimulai dari 1, nilai yang dimasukkan kemudian berubah nilainya dari bentuk teks menjadi bilangan bulat menggunakan fungsi int().
+
+3)barisan ketiga digunakan untuk menambahkan nilai yang telah dimasukkan oleh pengguna ke dalam list nilai_mahasiswa. Fungsi append() digunakan untuk menambahkan nilai kedalam array.
+
