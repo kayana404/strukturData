@@ -23,3 +23,14 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 
 4)barisan kelima dan keenam digunakaan untuk menentukan nilai lebih besar/kecil dari 60.
 
+<img width="672" height="151" alt="image" src="https://github.com/user-attachments/assets/5f74d477-848c-4726-a6f3-f4a42e990ba4" />
+
+1)barisan pertama digunakkan untuk menampilkan seluruh nilai mahasiswa yang sudah tersimpan di dalam list.
+
+2)barisan kedua digunakkan untuk mencari nilai terbesar dari seluruh mahasiswa.
+
+3)barisan ketiga digunakkan untuk mencari nilai terkecil dari seluruh mahasiswa.
+
+4)barian keempat digunakkan untuk menghitung rata-rata seluruh nilai mahasiswa.fungsi sum() digunakkan untuk menjumlahkan seluruh nilai yang ada di dalam array dan len() digunakkan untuk mengambil informasi panjang array yang sudah disimpan.
+
+5)baris kelima dan keenam digunakan untuk menampilkan variabel jumlah lulus dan tidak_lulus
