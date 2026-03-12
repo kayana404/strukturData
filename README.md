@@ -13,3 +13,13 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 
 3)barisan ketiga digunakan untuk menambahkan nilai yang telah dimasukkan oleh pengguna ke dalam list nilai_mahasiswa. Fungsi append() digunakan untuk menambahkan nilai kedalam array.
 
+<img width="1262" height="200" alt="image" src="https://github.com/user-attachments/assets/d2671737-1168-4117-927a-c7d902ee8151" />
+
+1)pada baris pertama dan kedua bertujuan untuk membuat variabel penghitung jumlah mahasiswa yang lulus dan tidak_lulus. Variabel ini diinisialisasi dengan nilai nol sebagai nilai awal sebelum proses pengecekan program.
+
+2)barisan ketiga berfungsi untuk membuat perulangan yang digunakan untuk membaca setiap nilai_mahasiswa yang telah disimpan ke dalam list.
+
+3)barisan keempat digunakan sebagai proses perbandingan untuk menentukan nilai mahasiswa yang lulus dan tidak_lulus
+
+4)barisan kelima dan keenam digunakaan untuk menentukan nilai lebih besar/kecil dari 60.
+
