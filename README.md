@@ -7,5 +7,5 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 
 <img width="684" height="137" alt="Screenshot 2026-03-10 142746" src="https://github.com/user-attachments/assets/2241bd4c-1b9d-4c69-b086-facbae561e64" />
 
-barisan pertama (for) untuk melakukan perulangan (for i in range(10): ) melakukan perulangan berjalan selama 10 kali perulangan,maka komplesitan waktunya adalah O(n)
+barisan pertama (for) untuk melakukan perulangan (for i in range(10): ) melakukan perulangan berjalan selama 10 kali perulangan
 barisan kedua 
