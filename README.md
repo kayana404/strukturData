@@ -73,5 +73,5 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 
 
 <img width="1307" height="360" alt="image" src="https://github.com/user-attachments/assets/6d7f6117-749f-4c6c-b66a-eb91b3eb9f96" />
-
-
+<img width="1246" height="774" alt="Screenshot 2026-03-12 195057" src="https://github.com/user-attachments/assets/69d3b1f2-3467-466c-b09d-4e7934b0f740" />
+<img width="1272" height="782" alt="Screenshot 2026-03-12 195125" src="https://github.com/user-attachments/assets/08352668-6e2f-4ad5-9903-fedbadf459ce" />
