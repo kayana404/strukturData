@@ -77,3 +77,15 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 <img width="672" height="151" alt="image" src="https://github.com/user-attachments/assets/5f74d477-848c-4726-a6f3-f4a42e990ba4" />
 <img width="1246" height="774" alt="Screenshot 2026-03-12 195057" src="https://github.com/user-attachments/assets/69d3b1f2-3467-466c-b09d-4e7934b0f740" />
 <img width="1272" height="782" alt="Screenshot 2026-03-12 195125" src="https://github.com/user-attachments/assets/08352668-6e2f-4ad5-9903-fedbadf459ce" />
+
+
+
+pada bagian input mahasiswa, waktu kompleksitasnya adalah O(n). dikarenakan program ini menggunakan perulangan for dimana proses ini dilakukan sebanyak n kali sesuai banyak nya data mahasiswa.
+
+pada bagian proses menghitung jumlah mahasiswa lulu dan tidak lulus, waktu kompleksitasnya adalah O(n). dikarenakan  program menggunakan perulangan untuk memeriksa setiap nilai apakah lebih besar atau sama dengan 60 untuk menentukan status kelulusan mahasiswa.
+
+pada bagian mencari nilai tertinggi(max) dan nilai terendah(min),waktu kompleksitasnya adalah O(n). dikarenakan kedua fungsi ini bekerja dengan memeriksa semua nilai dalam array
+
+pada bagian menghitung rata-rata, waktu kompleksitasnya adalah O(n).dikarenakan program menggunakkan sum() menghitung seluruh dalam array, dan sedangkan len() memiliki waktu kompeksitas yaitu O(1) yang dimana program ini hanya membaca panjang array saja.
+
+pada bagian membuat grafik, waktu kompleksitasnya adalah O(1). dikarenakan data yang ditampilkan bersifat tetap dan tidak bergantung pada jumlah elemen array.
