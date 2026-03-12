@@ -73,7 +73,7 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 
 
 <img width="1307" height="360" alt="image" src="https://github.com/user-attachments/assets/6d7f6117-749f-4c6c-b66a-eb91b3eb9f96" />
-<img width="684" height="137" alt="Screenshot 2026-03-10 142746" src="https://github.com/user-attachments/assets/2241bd4c-1b9d-4c69-b086-facbae561e64" />
 <img width="1262" height="200" alt="image" src="https://github.com/user-attachments/assets/d2671737-1168-4117-927a-c7d902ee8151" />
+<img width="672" height="151" alt="image" src="https://github.com/user-attachments/assets/5f74d477-848c-4726-a6f3-f4a42e990ba4" />
 <img width="1246" height="774" alt="Screenshot 2026-03-12 195057" src="https://github.com/user-attachments/assets/69d3b1f2-3467-466c-b09d-4e7934b0f740" />
 <img width="1272" height="782" alt="Screenshot 2026-03-12 195125" src="https://github.com/user-attachments/assets/08352668-6e2f-4ad5-9903-fedbadf459ce" />
