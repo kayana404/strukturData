@@ -37,3 +37,36 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 
 <img width="1259" height="236" alt="Screenshot 2026-03-12 174807" src="https://github.com/user-attachments/assets/291d5083-fd3a-4123-8e60-43aae4febf42" />
 
+1)pada baris import matplotlib.pyplot as plt digunakan untuk mengimpor library matplotlib.pyplot yang berfungsi untuk membuat grafik atau visualisasi data.
+
+2)pada baris plt.figure() digunakkan untuk embuat sebuah area gambar baru yang akan digunakan untuk menampilkan grafik.
+
+3)pada baris kategori = ["Lulus", "Tidak Lulus"] digunakan sebagai kategori nama pada grafik tersebut.
+
+4)pada baris data = [lulus, tidak_lulus] digunakkan untuk membuat list yang berisi jumlah mahasiswa lulus dan tidak_lulus.
+
+5)pada baris plt.bar(kategori, data) digunakkan untuk membuat batang grafik.
+
+6)pada baris plt.title("Grafik Data Kelulusan Mahasiswa") digunakkan untuk membuat judul grafik.
+
+7)pada baris plt.show() digunakkan untuk menampilkan garfik yang telah dibuat secara keseluruhan.
+
+<img width="1282" height="281" alt="image" src="https://github.com/user-attachments/assets/55286a37-a7f5-4469-8eda-2d769983b0e0" />
+
+1)pada baris import matplotlib.pyplot as plt digunakan untuk mengimpor library matplotlib.pyplot yang berfungsi untuk membuat grafik atau visualisasi data.
+
+2)pada baris plt.figure() digunakkan untuk embuat sebuah area gambar baru yang akan digunakan untuk menampilkan grafik.
+
+3)pada baris kategori = ["Tertinggi", "Terendah" digunakan sebagai kategori nama pada grafik tersebut.
+
+4)pada Baris nilai_tertinggi = max(nilai_mahasiswa) digunakkan untuk mencari nilai tertinggi dari seluruh mahasiswa.
+
+5)pada Baris nilai_terendah = min(nilai_mahasiswa) digunakkan untuk mencari nilai terendah dari seluruh mahasiswa.
+
+6)pada baris data = [nilai_tertinggi, nilai_terendah digunakkan untuk membuat list yang berisi nilai_tertinggi dan nilai_terendah.
+
+7)pada baris plt.bar(kategori, data) digunakkan untuk membuat batang grafik yang berisi perbandingan antara nilai tertinggi dan terendah.
+
+8)pada baris plt.ylabel("Nilai") digunakkan untuk membuat judul grafik.
+
+9)pada baris plt.show() digunakkan untuk menampilkan garfik yang telah dibuat secara keseluruhan.
