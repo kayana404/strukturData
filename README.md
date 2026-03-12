@@ -34,3 +34,6 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 4)barian keempat digunakkan untuk menghitung rata-rata seluruh nilai mahasiswa.fungsi sum() digunakkan untuk menjumlahkan seluruh nilai yang ada di dalam array dan len() digunakkan untuk mengambil informasi panjang array yang sudah disimpan.
 
 5)baris kelima dan keenam digunakan untuk menampilkan variabel jumlah lulus dan tidak_lulus
+
+<img width="1259" height="236" alt="Screenshot 2026-03-12 174807" src="https://github.com/user-attachments/assets/291d5083-fd3a-4123-8e60-43aae4febf42" />
+
