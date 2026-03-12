@@ -89,3 +89,7 @@ pada bagian mencari nilai tertinggi(max) dan nilai terendah(min),waktu kompleksi
 pada bagian menghitung rata-rata, waktu kompleksitasnya adalah O(n).dikarenakan program menggunakkan sum() menghitung seluruh dalam array, dan sedangkan len() memiliki waktu kompeksitas yaitu O(1) yang dimana program ini hanya membaca panjang array saja.
 
 pada bagian membuat grafik, waktu kompleksitasnya adalah O(1). dikarenakan data yang ditampilkan bersifat tetap dan tidak bergantung pada jumlah elemen array.
+
+
+
+saya dapat memahami bagaimana cara menggunakkan strukdur data array(list) yang dimana untuk mengelola data seperti data diatas.
