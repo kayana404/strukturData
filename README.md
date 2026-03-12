@@ -70,3 +70,8 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 8)pada baris plt.ylabel("Nilai") digunakkan untuk membuat judul grafik.
 
 9)pada baris plt.show() digunakkan untuk menampilkan garfik yang telah dibuat secara keseluruhan.
+
+
+<img width="1307" height="360" alt="image" src="https://github.com/user-attachments/assets/6d7f6117-749f-4c6c-b66a-eb91b3eb9f96" />
+
+
