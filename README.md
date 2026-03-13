@@ -71,14 +71,14 @@ baris kode ini digunakkan untuk medefinisikan sebuah array,list kosong([]) untuk
 
 9)pada baris plt.show() digunakkan untuk menampilkan garfik yang telah dibuat secara keseluruhan.
 
-
+# HASIL SCREENSHOT 
 <img width="1307" height="360" alt="image" src="https://github.com/user-attachments/assets/6d7f6117-749f-4c6c-b66a-eb91b3eb9f96" />
 <img width="1262" height="200" alt="image" src="https://github.com/user-attachments/assets/d2671737-1168-4117-927a-c7d902ee8151" />
 <img width="672" height="151" alt="image" src="https://github.com/user-attachments/assets/5f74d477-848c-4726-a6f3-f4a42e990ba4" />
 <img width="1246" height="774" alt="Screenshot 2026-03-12 195057" src="https://github.com/user-attachments/assets/69d3b1f2-3467-466c-b09d-4e7934b0f740" />
 <img width="1272" height="782" alt="Screenshot 2026-03-12 195125" src="https://github.com/user-attachments/assets/08352668-6e2f-4ad5-9903-fedbadf459ce" />
 
-
+# ANALISIS KOMPLEKSITAS
 
 pada bagian input mahasiswa, waktu kompleksitasnya adalah O(n). dikarenakan program ini menggunakan perulangan for dimana proses ini dilakukan sebanyak n kali sesuai banyak nya data mahasiswa.
 
@@ -90,6 +90,6 @@ pada bagian menghitung rata-rata, waktu kompleksitasnya adalah O(n).dikarenakan 
 
 pada bagian membuat grafik, waktu kompleksitasnya adalah O(1). dikarenakan data yang ditampilkan bersifat tetap dan tidak bergantung pada jumlah elemen array.
 
-
+# MEMPELAJARI 
 
 saya dapat memahami bagaimana cara menggunakkan strukdur data array(list) yang dimana untuk mengelola data seperti data diatas.
