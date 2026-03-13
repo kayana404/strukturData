@@ -1,4 +1,4 @@
-# strukturData
+# PENJELASAN ARRAY
 <img width="230" height="25" alt="image" src="https://github.com/user-attachments/assets/4c16ac15-d73b-493b-a4fc-0d8a6a326e20" />
 
 
@@ -90,6 +90,7 @@ pada bagian menghitung rata-rata, waktu kompleksitasnya adalah O(n).dikarenakan 
 
 pada bagian membuat grafik, waktu kompleksitasnya adalah O(1). dikarenakan data yang ditampilkan bersifat tetap dan tidak bergantung pada jumlah elemen array.
 
-# MEMPELAJARI 
+# REFLEKSI PEMBELAJARAN 
 
-saya dapat memahami bagaimana cara menggunakkan strukdur data array(list) yang dimana untuk mengelola data seperti data diatas.
+saya dapat memahami bagaimana cara menggunakkan struktur data array(list) yang dimana untuk mengelola data seperti data diatas.
+saya dapat mengetahui cara mencari nilai tinggi(max) dan rendah(min),dan menghitung rata-rata(sum).
