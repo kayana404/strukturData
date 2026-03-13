@@ -93,4 +93,6 @@ pada bagian membuat grafik, waktu kompleksitasnya adalah O(1). dikarenakan data 
 # REFLEKSI PEMBELAJARAN 
 
 saya dapat memahami bagaimana cara menggunakkan struktur data array(list) yang dimana untuk mengelola data seperti data diatas.
-saya dapat mengetahui cara mencari nilai tinggi(max) dan rendah(min),dan menghitung rata-rata(sum).
+
+saya dapat mengetahui cara mencari nilai tinggi(max) dan rendah(min),dan menghitung rata-rata(sum) di program python.
+
