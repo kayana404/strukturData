@@ -96,3 +96,6 @@ saya dapat memahami bagaimana cara menggunakkan struktur data array(list) yang d
 
 saya dapat mengetahui cara mencari nilai tinggi(max) dan rendah(min),dan menghitung rata-rata(sum) di program python.
 
+saya dapat memahami cara membuat grafik di python yaitu menggunakkan matplotlib.pyplot as plt.
+
+saya juga dapat memahami cara melakukkan perulangan di python sama seperti bahasa c yaitu menggunakkan for dan saya juga belajar cara menyimpan data ke dalam array di python yang menggunakkan fungsi append().
